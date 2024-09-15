@@ -36,6 +36,9 @@ The primary need of this project is to conduct a descriptive analysis of the yea
   * AWS-Athena
   * AWS-EC2
   * Microsoft Web Server IIS Role Installation <br>
+
+___
+
 # [Project 2 Description: Exploratory Analysis of Lost and Found Animal Records](https://busi-653-codes.github.io/City-of-Vancouver-DAP-Project-Part-2-Peddaballe-Vinodh-Kumar-Reddy/)
 In this assignment I will be describing the details of the City of Vancouver project mainly about the Data concerns of the Data Analytic Platform (DAP) implemented previously. For this assignment I used the processed and published dataset information from website [City of Vancouver Open Data Portal](https://opendata.vancouver.ca/explore/dataset/animal-control-inventory-lost-and-found/export/?disjunctive.breed&disjunctive.color&sort=date&refine.date=2023).
 ## Project 2 Title: Understanding the process of ensuring Data Protection, Governance, & Monitoring for DAP
