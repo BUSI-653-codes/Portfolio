@@ -1,4 +1,4 @@
-<h1 align="center">AWS Portfolio Assignemnt</h1>
+<h1 align="center">AWS Portfolio Assignment</h1>
 <p align="center">
 Peddaballe Vinodh Kumar Reddy [2212316] <br>
 University Canada West<br>
@@ -45,11 +45,11 @@ In this assignment I will be describing the details of the City of Vancouver pro
 The primary need of this project is to conduct a exploratory analsis of the process of providing and ensuring the Data Protection, Governance, & Monitoring for DAP model i developed in the previous assignment. This project mainly deals with the process after the basic model fo DAP is developed and implemented. This project mainly discusses on the various tools and technologies used in providing Data Protection, Governance, & Monitoring for DAP model developed.
 ## Methodology:
 * The process of Designing and implementing the Data Protection, Governance, & Monitoring for DAP model is complex.
-* This involves 4 different steps. I will be explaining on these steps in detail below
+* This involves 4 different steps. I will be explaining on these steps in detail below:
   * Step 14: Data Enriching
   * Step 15: Data Protection
   * Step 16: Data Governance
-  * Step 17: Data Monitoring## Tools and Technologies:
+  * Step 17: Data Monitoring
 ## The lsit of Tools or technologies used for Project 2 are:
   * AWS-S3
   * AWS-Glue
