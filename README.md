@@ -57,3 +57,23 @@ The primary need of this project is to conduct a exploratory analsis of the proc
   * AWS-KMS
   * AWS-CloudWatch
   * AWS-CloudTrail
+
+
+___
+# [Project 3 Description: Cost estimation of Lost and Found Animal Records DAP](https://busi-653-codes.github.io/City-of-Vancouver-DAP-Project-Part-3-Cost-Estimation-Peddaballe-Vinodh-Kumar-Reddy/)
+In this assignment I will be describing the cost details of AWS Services used for the City of Vancouver project mainly about the Data concerns of the Data Analytic Platform (DAP) implemented previously. For this assignment. In this scenario we will be calculating the cost incurred monthly for setting up the network along with all the services using in the process of DAP. We will be explaining the scenario based on the image below which shows our DAP network details. We will also use the same for calculating cost using “AWS Calculator”.
+![figure 47](https://github.com/user-attachments/assets/cfc3c7c7-7b62-4c2a-a556-121259b0f44d)
+* The above image displays the network used for my DAP model.
+## Project 3 Title: Understanding Cost Estimation of DAP
+The primary need of this project is to conduct a exploratory analsis of the process of estimating the average monthly costs for the AWs services we will be using.
+## Project 3 Objective:
+* Cost Estimation of AWS Services Used.
+## Methodology
+* We will be using the [AWS Pricing Calculator](https://calculator.aws/#/) to estimate the cost that we may incur during the DAP process of Lost and Found Animal Records for City of Vancouver.S3 Cost Estimation
+* S3 Data Used Information
+* AWS Glue Cost Estimation
+* VPC Cost Estimation
+* API Gateway Cost Estimation
+* AWS Athena Cost Estimation
+* AWS EC2 Cost Estimation
+* AWS Final Cost Estimation
